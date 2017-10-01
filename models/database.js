@@ -8,3 +8,4 @@ client.query('CREATE TABLE items(id SERIAL PRIMARY KEY, text VARCHAR(40) not nul
   console.log(err ? err.stack : 'OK') // Hello World!
   client.end()
 })
+//checking ssh
